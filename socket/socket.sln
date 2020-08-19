@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP客户端", "socket\socket.vcxproj", "{7ABB5562-BB5E-4F33-94FA-BABA778396BD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP服务器端", "服务器端\服务器端.vcxproj", "{D2322F5B-CAD7-426A-B8A0-ACA9CDE976EF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDP客户端", "UDP客户端\UDP客户端.vcxproj", "{54C2EC53-DDF0-4462-A7D2-DFD3E8F8F5F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDP服务器端", "UDP服务器端\UDP服务器端.vcxproj", "{0FEA7DFB-DB97-4523-9294-C48EEB776E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ABB5562-BB5E-4F33-94FA-BABA778396BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7ABB5562-BB5E-4F33-94FA-BABA778396BD}.Debug|Win32.Build.0 = Debug|Win32
+		{7ABB5562-BB5E-4F33-94FA-BABA778396BD}.Release|Win32.ActiveCfg = Release|Win32
+		{7ABB5562-BB5E-4F33-94FA-BABA778396BD}.Release|Win32.Build.0 = Release|Win32
+		{D2322F5B-CAD7-426A-B8A0-ACA9CDE976EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2322F5B-CAD7-426A-B8A0-ACA9CDE976EF}.Debug|Win32.Build.0 = Debug|Win32
+		{D2322F5B-CAD7-426A-B8A0-ACA9CDE976EF}.Release|Win32.ActiveCfg = Release|Win32
+		{D2322F5B-CAD7-426A-B8A0-ACA9CDE976EF}.Release|Win32.Build.0 = Release|Win32
+		{54C2EC53-DDF0-4462-A7D2-DFD3E8F8F5F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54C2EC53-DDF0-4462-A7D2-DFD3E8F8F5F6}.Debug|Win32.Build.0 = Debug|Win32
+		{54C2EC53-DDF0-4462-A7D2-DFD3E8F8F5F6}.Release|Win32.ActiveCfg = Release|Win32
+		{54C2EC53-DDF0-4462-A7D2-DFD3E8F8F5F6}.Release|Win32.Build.0 = Release|Win32
+		{0FEA7DFB-DB97-4523-9294-C48EEB776E87}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0FEA7DFB-DB97-4523-9294-C48EEB776E87}.Debug|Win32.Build.0 = Debug|Win32
+		{0FEA7DFB-DB97-4523-9294-C48EEB776E87}.Release|Win32.ActiveCfg = Release|Win32
+		{0FEA7DFB-DB97-4523-9294-C48EEB776E87}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

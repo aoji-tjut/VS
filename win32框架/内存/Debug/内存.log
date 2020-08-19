@@ -1,0 +1,25 @@
+﻿生成启动时间为 2017/1/28 19:42:36。
+     1>项目“D:\VS2013Object\win32框架\内存\内存.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\内存.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "内存.cpp"
+         内存.cpp
+     1>d:\vs2013object\win32框架\内存\内存.cpp(147): warning C4101: “hFont”: 未引用的局部变量
+     1>d:\vs2013object\win32框架\内存\内存.cpp(247): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\vs2013object\win32框架\内存\内存.cpp(271): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(284) : 参见“wcscat”的声明
+     1>d:\vs2013object\win32框架\内存\内存.cpp(272): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2013object\win32框架\内存\内存.cpp(276): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(284) : 参见“wcscat”的声明
+     1>d:\vs2013object\win32框架\内存\内存.cpp(292): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2013Object\win32框架\Debug\内存.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS2013Object\win32框架\Debug\内存.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2013Object\win32框架\Debug\内存.lib" /MACHINE:X86 "Debug\内存.res"
+         Debug\stdafx.obj
+         "Debug\内存.obj"
+         内存.vcxproj -> D:\VS2013Object\win32框架\Debug\内存.exe
+     1>已完成生成项目“D:\VS2013Object\win32框架\内存\内存.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.96

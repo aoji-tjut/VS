@@ -1,0 +1,30 @@
+﻿生成启动时间为 2019/3/8 13:23:49。
+     1>项目“D:\VS2013Object\嘴哥原创俄罗斯方块\嘴哥原创俄罗斯方块\嘴哥原创俄罗斯方块.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\嘴哥原创俄罗斯方块.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\嘴哥原创俄罗斯方块.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "嘴哥原创俄罗斯方块.cpp"
+         嘴哥原创俄罗斯方块.cpp
+     1>嘴哥原创俄罗斯方块.cpp(251): warning C4244: “参数”: 从“double”转换到“BYTE”，可能丢失数据
+     1>嘴哥原创俄罗斯方块.cpp(737): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 参见“sprintf”的声明
+     1>嘴哥原创俄罗斯方块.cpp(738): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 参见“sprintf”的声明
+     1>嘴哥原创俄罗斯方块.cpp(739): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 参见“sprintf”的声明
+     1>嘴哥原创俄罗斯方块.cpp(1295): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 参见“sprintf”的声明
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Release\嘴哥原创俄罗斯方块.res" "嘴哥原创俄罗斯方块.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2013Object\嘴哥原创俄罗斯方块\Release\嘴哥原创俄罗斯方块.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS2013Object\嘴哥原创俄罗斯方块\Release\嘴哥原创俄罗斯方块.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2013Object\嘴哥原创俄罗斯方块\Release\嘴哥原创俄罗斯方块.lib" /MACHINE:X86 /SAFESEH "Release\嘴哥原创俄罗斯方块.res"
+         Release\stdafx.obj
+         "Release\嘴哥原创俄罗斯方块.obj"
+         正在生成代码
+         已完成代码的生成
+         嘴哥原创俄罗斯方块.vcxproj -> D:\VS2013Object\嘴哥原创俄罗斯方块\Release\嘴哥原创俄罗斯方块.exe
+     1>已完成生成项目“D:\VS2013Object\嘴哥原创俄罗斯方块\嘴哥原创俄罗斯方块\嘴哥原创俄罗斯方块.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.42

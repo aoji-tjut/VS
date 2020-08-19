@@ -1,0 +1,13 @@
+﻿生成启动时间为 2017/1/31 10:34:40。
+     1>项目“D:\VS2013Object\多文档UI\多文档UI\多文档UI.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\多文档UI.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "多文档UI.cpp"
+         多文档UI.cpp
+     1>d:\vs2013object\多文档ui\多文档ui\多文档ui.cpp(143): warning C4101: “mcs”: 未引用的局部变量
+     1>d:\vs2013object\多文档ui\多文档ui\多文档ui.cpp(191): error C2146: 语法错误: 缺少“;”(在标识符“pTextData”的前面)
+     1>d:\vs2013object\多文档ui\多文档ui\多文档ui.cpp(191): error C2065: “pTextData”: 未声明的标识符
+     1>已完成生成项目“D:\VS2013Object\多文档UI\多文档UI\多文档UI.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.26
